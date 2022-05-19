@@ -1,0 +1,5 @@
+.pessoa {
+    display: flex;
+    padding-top: 3rem;
+    flex-direction: column;
+}
